@@ -1,5 +1,5 @@
 {
-	TFile *myFile = new TFile("~/Documents/run00068.root");
+//	TFile *myFile = new TFile("~/Documents/run00068.root");
 	
 	TH1F *diffHist = new TH1F("diffHist" , "Difference Histogram" , 3000 , 100, 3101 );
 	TH1F *h1 = new TH1F("h1" , "Horizontal Polarization" , 3000, 100, 3101);	
