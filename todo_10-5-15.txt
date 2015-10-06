@@ -1,0 +1,13 @@
+To Do list
+
+154Sm data, look into polarization data
+	- Find strong lines of E1 and E2 , try E0 or M1 if find lines with decent intensity.
+	- Plot data that scattered along and perp. to reaction plane.
+	- Triple check clover orientation
+	- Run gauss+lin fitting over large peaks
+	- Integrate the fit
+	- subtract the areas under the curves, print to another histogram or tree or something
+	- Calculate difference divided by sum for along and perp. for every strong gamma
+	- Find correction factor for polarizations
+		- Look at data from just a source to see if there is a preference in the way the gammas are scattering
+	- Use this to calibrate things from before.
